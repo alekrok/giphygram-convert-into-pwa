@@ -11,4 +11,6 @@ Following the PWA guidelines, the code in sequentially named branches is iterati
 
 This code with its iterations is taken from the Udemy course [Everything you need to build Progressive Web Apps from Scratch, or upgrade your existing Web Apps to PWAs](https://inrhythm.udemy.com/course/progressive-web-apps/learn/lecture/7880826#overview) by Ray Viljoen.
 
-Note: for local dvelopment and testing, it could be served by the [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb/reviews) plugin.
+Note: for local dvelopment and testing, the site could be served for example:
+- by a PHP server with a command like **`> php -S localhost:8000`**
+- by the [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb/reviews) plugin
